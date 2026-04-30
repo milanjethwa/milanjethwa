@@ -40,7 +40,7 @@ I'm Milan Jethwa, a Senior Developer at Cognizant with 7 years of experience bui
 
 ### :speech_balloon: Let's Connect:
 
-- [![Linkedin Badge](https://img.shields.io/static/v1?label=LinkedIn&message=Milan+Jethwa&color=%230077b5&logo=linkedIn&logoColor=%230077b5)](https://www.linkedin.com/in/milan-jethwa/)
+- [![Linkedin Badge](https://img.shields.io/static/v1?label=LinkedIn&message=Milan+Jethwa&color=%230077b5&logo=linkedIn&logoColor=%230077b5)](https://www.linkedin.com/in/milanjethwa/)
 
 ---
 
