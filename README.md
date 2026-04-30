@@ -24,11 +24,11 @@ I'm Milan Jethwa, a Senior Developer at Cognizant with 7 years of experience bui
 
 :computer: Frontend: React, Redux, HTML5, CSS3, JavaScript (ES6+), Angular
 
-:satellite: Backend: Node.js, Express.js, MongoDB, RESTful APIs, .Net, SQL
+:satellite: Backend: Node.js, Express.js, Spring Boot, Quarkus, MongoDB, RESTful APIs, .Net, SQL
 
-:wrench: Tools & Technologies: Git, VS Code, Webpack, Babel
+:cloud: Cloud & Platforms: AWS (EC2, S3, Lambda, RDS), Azure (App Service, Functions, SQL Database), Maven, Gradle
 
-📱 Additional Skills: Python3, Java, C/C++, Responsive Web Design, User Authentication, State Management, Redis, Git, GitHub, Docker
+📱 Additional Skills: Python3, Java (Spring Framework, Quarkus), Responsive Web Design, User Authentication, State Management, Redis, GitHub, Docker, Kubernetes
 
 ### :rocket: Experience Highlights:
 
@@ -49,6 +49,7 @@ I'm Milan Jethwa, a Senior Developer at Cognizant with 7 years of experience bui
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="NetCore" alt="NetCore" width="40" height="40"/>&nbsp;
@@ -58,9 +59,9 @@ I'm Milan Jethwa, a Senior Developer at Cognizant with 7 years of experience bui
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
@@ -96,19 +97,3 @@ I'm Milan Jethwa, a Senior Developer at Cognizant with 7 years of experience bui
 </p>
 
 ![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)
-
-
-<!--
-**milanjethwa/milanjethwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
