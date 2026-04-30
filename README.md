@@ -7,7 +7,7 @@
   </div>
   <h1>
     Hello there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="30px"/>
     I'm Milan Jethwa, pleased to meet you!
   </h1>
 </div>
@@ -95,5 +95,3 @@ I'm Milan Jethwa, a Senior Developer at Cognizant with 7 years of experience bui
 <p align="center">
   Thank you for visiting!
 </p>
-
-![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)
