@@ -82,7 +82,6 @@ I'm Milan Jethwa, a Senior Developer at Cognizant with 7 years of experience bui
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" />
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" />
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40" />
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />
 </p>
 
